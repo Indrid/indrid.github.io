@@ -1,1 +1,24 @@
+* {
+	font-family: Helvetica;
+	background-image: url("https://www.thoughtco.com/thmb/Y0u9dMhdSXvKQh10yOBoUu-C7vk=/3435x2576/smart/filters:no_upscale()/abstract-paper-flower-pattern-656688606-5acfba2eae9ab80038461ca0.jpg");
+}
+
+h1,
+h2 {
+	font-weight: bold; 
+}
+
+h1 {
+	font-size: 100px;
+	color: khaki;
+	text-align: center;
+}
+
+h2 {
+	font-size: 32px;
+}
+
+h3 {
+	font-weight: bold;
+}
 
